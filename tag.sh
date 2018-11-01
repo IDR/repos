@@ -1,8 +1,8 @@
 #!/bin/bash
 
-PREVIOUS=0.5.0
-UPCOMING=0.5.1
-MESSAGE="Tagging $UPCOMING: prod51 release with 2 new datasets"
+PREVIOUS=0.5.1
+UPCOMING=0.5.2
+MESSAGE="Tagging $UPCOMING: prod52 release"
 
 # Usage:
 # 0. Update the variables above!

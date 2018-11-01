@@ -25,12 +25,6 @@
 [submodule "jupyter-docker"]
 	path = jupyter-docker
 	url = git://github.com/idr/jupyter-docker
-[submodule "jupyterhub-githubauth"]
-	path = jupyterhub-githubauth
-	url = git://github.com/idr/jupyterhub-githubauth
-[submodule "omero-mapr"]
-	path = omero-mapr
-	url = git://github.com/idr/omero-mapr
 [submodule "idr.openmicroscopy.org"]
 	path = idr.openmicroscopy.org
 	url = git://github.com/idr/idr.openmicroscopy.org
