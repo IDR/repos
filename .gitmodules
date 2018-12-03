@@ -4,9 +4,6 @@
 [submodule "openmicroscopy"]
 	path = openmicroscopy
 	url = git://github.com/idr/openmicroscopy
-[submodule "infrastructure"]
-	path = infrastructure
-	url = git://github.com/idr/infrastructure
 [submodule "vocabulary"]
 	path = vocabulary
 	url = git://github.com/idr/vocabulary
@@ -25,9 +22,6 @@
 [submodule "jupyter-docker"]
 	path = jupyter-docker
 	url = git://github.com/idr/jupyter-docker
-[submodule "idr.openmicroscopy.org"]
-	path = idr.openmicroscopy.org
-	url = git://github.com/idr/idr.openmicroscopy.org
 [submodule "deployment"]
 	path = deployment
 	url = git://github.com/idr/deployment
