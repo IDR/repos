@@ -9,6 +9,10 @@ upstream and origin are the same, you'll likely want *both*.
 
 ## Release steps
 
+### Update tag.sh
+
+Update PREVIOUS, UPCOMING and MESSAGE variables for tagging the repositories
+
 ### Checkout the associated branches
 
     git submodule foreach git fetch upstream
@@ -19,7 +23,7 @@ upstream and origin are the same, you'll likely want *both*.
 ### Bump the release number and commit changes
 
     # edit PREVIOUS, VERSION and MESSAGE in tag.sh
-    git commit -a -m "Updating all repos for IDR x.y.z""
+    git commit -a -m "Updating all repos for IDR x.y.z"
 
 ### Tag and push all subcomponents
 
