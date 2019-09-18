@@ -1,9 +1,6 @@
 [submodule "bioformats"]
 	path = bioformats
 	url = git://github.com/idr/bioformats
-[submodule "openmicroscopy"]
-	path = openmicroscopy
-	url = git://github.com/idr/openmicroscopy
 [submodule "vocabulary"]
 	path = vocabulary
 	url = git://github.com/idr/vocabulary
