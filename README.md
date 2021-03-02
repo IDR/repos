@@ -32,4 +32,4 @@ Update PREVIOUS, UPCOMING and MESSAGE variables for tagging the repositories
 ### Tag an push the super repository
 
     git tag -s -m "IDR x.y.z - short description" x.y.z
-    git push origin x.y.z
+    git push origin x.y.z master
