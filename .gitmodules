@@ -7,18 +7,9 @@
 [submodule "idr-metadata"]
 	path = idr-metadata
 	url = git://github.com/idr/idr-metadata
-[submodule "pydoop-features"]
-	path = pydoop-features
-	url = git://github.com/idr/pydoop-features
-[submodule "omero-features"]
-	path = omero-features
-	url = git://github.com/idr/omero-features
 [submodule "idr-notebooks"]
 	path = idr-notebooks
 	url = git://github.com/idr/idr-notebooks
-[submodule "jupyter-docker"]
-	path = jupyter-docker
-	url = git://github.com/idr/jupyter-docker
 [submodule "deployment"]
 	path = deployment
 	url = git://github.com/idr/deployment
