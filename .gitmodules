@@ -1,15 +1,15 @@
 [submodule "bioformats"]
 	path = bioformats
-	url = git://github.com/idr/bioformats
+	url = https://github.com/idr/bioformats
 [submodule "vocabulary"]
 	path = vocabulary
-	url = git://github.com/idr/vocabulary
+	url = https://github.com/idr/vocabulary
 [submodule "idr-metadata"]
 	path = idr-metadata
-	url = git://github.com/idr/idr-metadata
+	url = https://github.com/idr/idr-metadata
 [submodule "idr-notebooks"]
 	path = idr-notebooks
-	url = git://github.com/idr/idr-notebooks
+	url = https://github.com/idr/idr-notebooks
 [submodule "deployment"]
 	path = deployment
-	url = git://github.com/idr/deployment
+	url = https://github.com/idr/deployment
