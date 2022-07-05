@@ -7,9 +7,6 @@
 [submodule "idr-metadata"]
 	path = idr-metadata
 	url = https://github.com/idr/idr-metadata
-[submodule "idr-notebooks"]
-	path = idr-notebooks
-	url = https://github.com/idr/idr-notebooks
 [submodule "deployment"]
 	path = deployment
 	url = https://github.com/idr/deployment
