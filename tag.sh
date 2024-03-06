@@ -1,8 +1,8 @@
 #!/bin/bash
 
-PREVIOUS=0.11.8
-UPCOMING=0.11.9
-MESSAGE="Tagging $UPCOMING: prod119 release"
+PREVIOUS=0.11.9
+UPCOMING=0.12.0
+MESSAGE="Tagging $UPCOMING: prod120 release"
 
 # Usage:
 # 0. Update the variables above!
