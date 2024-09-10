@@ -1,6 +1,3 @@
-[submodule "bioformats"]
-	path = bioformats
-	url = https://github.com/idr/bioformats
 [submodule "vocabulary"]
 	path = vocabulary
 	url = https://github.com/idr/vocabulary
